@@ -1,0 +1,70 @@
+Name:lavanya
+Phone Num:7890654321
+Mail ID:lavanya123@gmail.com
+Blood Group:150
+Amount:A
+
+
+Name:teja
+Phone Num:9234567890
+Mail ID:teja8500@gmail.com
+Blood Group:120
+Amount:O
+
+
+Name:devi
+Phone Num:8912345678
+Mail ID:devi03@gmail.com
+Blood Group:220
+Amount:A
+
+
+Name:pooja
+Phone Num:7889976756
+Mail ID:pooja123@gmail.com
+Blood Group:150
+Amount:B
+
+
+Name:ramesh
+Phone Num:8374207865
+Mail ID:ramesh123@gmail.com
+Blood Group:185
+Amount:A
+
+
+Name:gnanesh
+Phone Num:7989456534
+Mail ID:gnanesh563@gmail.com
+Blood Group:150
+Amount:AB
+
+
+Name:jai
+Phone Num:7578767970
+Mail ID:jairebel21@gmail.com
+Blood Group:100
+Amount:O
+
+
+Name:manimala
+Phone Num:8787677543
+Mail ID:manimalsj23@gmail.com
+Blood Group:140
+Amount:B
+
+
+Name:jyoshna
+Phone Num:9090989879
+Mail ID:jyoshna93@gmail.com
+Blood Group:120
+Amount:A
+
+
+Name:ram
+Phone Num:9876543210
+Mail ID:ram124@gmail.com
+Blood Group:240
+Amount:B
+
+
