@@ -1,4 +1,4 @@
-from donor import *
+from data import *
 
 A = blooddb("GBG", "saxaxi", "geethu", "Grce", "xjnsdkci")
 
